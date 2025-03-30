@@ -1,0 +1,26 @@
+overall_metrics:
+  accuracy: 0.42025
+  bleu: 0.6126416737440568
+  count: 4000
+  loss: 0.7605835814476013
+task_metrics:
+  add 1:
+    accuracy: 0.39303482587064675
+    bleu: 0.5948010930926758
+    count: 1005
+    loss: 0.7582639278464056
+  add 2:
+    accuracy: 0.4222222222222222
+    bleu: 0.6295501527600269
+    count: 990
+    loss: 0.7611407968130979
+  sort down:
+    accuracy: 0.28205128205128205
+    bleu: 0.5097167486337378
+    count: 1014
+    loss: 0.7674425125592323
+  sort up:
+    accuracy: 0.5872855701311807
+    bleu: 0.7191565712119588
+    count: 991
+    loss: 0.7553612328201201
