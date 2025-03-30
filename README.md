@@ -5,6 +5,9 @@ This repository was created for the _Implementing Transformers_ seminar at HHU, 
 - An implementation of the Base Transformer from ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762).
 - A small-scale experiment on fine-tuning with LoRA for a synthetic task.
 
+In addition to the code, I have provided a report discussing the Transformer model and my LoRa implementation.
+This project received a GPA of 4.0.
+
 ## Installation and Environment Setup
 
 1. Install Poetry from the [official site](https://python-poetry.org/docs/).
